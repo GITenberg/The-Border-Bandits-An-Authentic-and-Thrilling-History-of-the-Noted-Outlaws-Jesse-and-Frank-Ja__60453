@@ -1,0 +1,34 @@
+_repo: The-Border-Bandits-An-Authentic-and-Thrilling-History-of-the-Noted-Outlaws-Jesse-and-Frank-Ja__60453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buel, James W. (James William)
+    aliases:
+    - Buel, James William
+    - Buel, J. W. (James William)
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '44039'
+    url: http://www.gutenberg.org/2009/agents/44039
+description: ''
+gutenberg_issued: '2019-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60453'
+  lccn: '16021858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Younger, Robert Ewing, 1853-1889'
+- !lcsh 'Younger, Cole, 1844-1916'
+- !lcsh 'Younger, James, 1848-1902'
+- !lcc 'HV'
+- !lcsh 'James, Frank, 1844-1915'
+- !lcc 'F590.3'
+- !lcsh 'James, Jesse, 1847-1882'
+- GITenberg
+title: "The Border Bandits\r\nAn Authentic and Thrilling History of the Noted Outlaws,\
+  \ Jesse and Frank James"
+url: http://www.gutenberg.org/ebooks/60453
